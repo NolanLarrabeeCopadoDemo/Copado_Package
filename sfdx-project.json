@@ -13,6 +13,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "54.0",
     "packageAliases": {
-        "VehiclePackage": "0Ho8b000000blJnCAI"
+        "VehiclePackage": "0Ho8b000000blJnCAI",
+        "VehiclePackage@0.1.0-1-main": "04t8b000001eYHfAAM"
     }
 }
